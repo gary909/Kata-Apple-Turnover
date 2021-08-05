@@ -3,7 +3,7 @@
 ![kata image](kata2.png)
 
 ____________________________
-![kata image](kata1.png)
+![kata image](kata.png)
 ____________________________
 
 Kata from the code wars site: Alan Partridge II - Apple Turnover
